@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="jitsi-meet/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jitsi-meet.iml" filepath="$PROJECT_DIR$/.idea/modules/jitsi-meet.iml" group="jitsi-meet" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1399324440/react-native-background-timer.iml" filepath="$PROJECT_DIR$/.idea/modules/-1399324440/react-native-background-timer.iml" group="jitsi-meet/react-native-background-timer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-44138490/react-native-calendar-events.iml" filepath="$PROJECT_DIR$/.idea/modules/-44138490/react-native-calendar-events.iml" group="jitsi-meet/react-native-calendar-events" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1233311370/react-native-community-async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1233311370/react-native-community-async-storage.iml" group="jitsi-meet/react-native-community-async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-765893353/react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-765893353/react-native-community_netinfo.iml" group="jitsi-meet/react-native-community_netinfo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1368536727/react-native-default-preference.iml" filepath="$PROJECT_DIR$/.idea/modules/-1368536727/react-native-default-preference.iml" group="jitsi-meet/react-native-default-preference" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2010032898/react-native-google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/2010032898/react-native-google-signin.iml" group="jitsi-meet/react-native-google-signin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1761089607/react-native-immersive.iml" filepath="$PROJECT_DIR$/.idea/modules/-1761089607/react-native-immersive.iml" group="jitsi-meet/react-native-immersive" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1016592705/react-native-keep-awake.iml" filepath="$PROJECT_DIR$/.idea/modules/-1016592705/react-native-keep-awake.iml" group="jitsi-meet/react-native-keep-awake" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-909605290/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-909605290/react-native-linear-gradient.iml" group="jitsi-meet/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1117221133/react-native-sound.iml" filepath="$PROJECT_DIR$/.idea/modules/1117221133/react-native-sound.iml" group="jitsi-meet/react-native-sound" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1418161950/react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1418161950/react-native-svg.iml" group="jitsi-meet/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2127457009/react-native-webrtc.iml" filepath="$PROJECT_DIR$/.idea/modules/-2127457009/react-native-webrtc.iml" group="jitsi-meet/react-native-webrtc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/275180151/react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/275180151/react-native-webview.iml" group="jitsi-meet/react-native-webview" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk/sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk/sdk.iml" group="jitsi-meet/sdk" />
+    </modules>
+  </component>
+</project>
